@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MR_math.dir/MR_math.cpp.o -o ../bin/MR_math  ../src/libmylib.a 
